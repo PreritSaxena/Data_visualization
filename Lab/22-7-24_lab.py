@@ -38,8 +38,9 @@
 # print('line 7')
 
 # 4 Type Error
-try:    
-    print(int(input("Enter first integer value ")))
-    print(int(input("Enter second integer value ")))
-except ValueError:
-    print("Please enter a valid integer value")
+# try:    
+#     print(int(input("Enter first integer value ")))
+#     print(int(input("Enter second integer value ")))
+# except ValueError:
+#     print("Please enter a valid integer value")
+
