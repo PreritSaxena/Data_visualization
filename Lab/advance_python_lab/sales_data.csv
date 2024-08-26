@@ -1,0 +1,9 @@
+Region,Manager,Salesman,Item,Units Sold,Sale Amount
+East,John,Steve,Item1,150,3000
+West,John,Mike,Item2,200,4000
+North,Lisa,Anna,Item1,250,5000
+East,Lisa,Nick,Item2,300,6000
+West,John,Steve,Item1,150,3000
+North,John,Mike,Item2,200,4000
+South,Lisa,Anna,Item1,250,5000
+South,Lisa,Nick,Item2,300,6000
